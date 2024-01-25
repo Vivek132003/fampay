@@ -1,0 +1,15 @@
+mydata:
+  key:
+    - "AIzaSyCWDvWIWdwWxDSJ-------------------"
+  topics:
+    - "football"
+    - "cricket"
+    - "ram mandir"
+    - "asmr"
+    - "latest music updates"
+spring:
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/fampay"
+    username: "postgres"
+    password: "root"
+
